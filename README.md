@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fateen</h1>
 <h3 align="center">Exploring... Currently Studying at Islamic University of Technology</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
