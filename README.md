@@ -1,9 +1,9 @@
 <h1 align="center">Hello! This is Fateen Noor Rafee</h1>
 <h3 align="center">A rising Full-Stack Web-Developer with a bidding interest on Machine Learning and Computer Vision.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fateennr&label=Profile%20views&color=0e75b6&style=flat" alt="fateennr" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fateennr&label=Profile%20views&color=0e75b6&style=flat" alt="fateennr" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fateennr" alt="fateennr" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fateennr" alt="fateennr" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
