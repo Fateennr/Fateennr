@@ -1,5 +1,5 @@
 <h1 align="center">Hello! This is Fateen Noor Rafee</h1>
-<h3 align="center">A rising Full-Stack Web-Developer with a bidding interest on Computer Vision.</h3>
+<h3 align="center">A rising Enthusiast with a bidding interest in Development, Computer Vision and Technologies.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fateennr&label=Profile%20views&color=0e75b6&style=flat" alt="fateennr" /> </p> -->
 
